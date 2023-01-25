@@ -1,0 +1,49 @@
+
+#Mapa-Contacto
+{
+    display: flex;
+    align-items: center;
+}
+
+#Mapa-Contacto iframe
+{
+    width: 750px;
+    height: 750px;
+    border:0;
+    margin: 20px;
+    margin-left: 150px;
+    margin-right: 70px;
+}
+
+#Mapa-Contacto h1
+{
+    color: rgb(221, 221, 221);
+    transform: translateY(-150px);
+}
+
+#Mapa-Contacto div
+{
+    width: 100px;
+    height: 75px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#Mapa-Contacto div img
+{ 
+    width: 100px;
+    height: 75px;
+}
+
+#Correo
+{
+    display: flex;
+    align-items: center;
+    transform: translateY(150px);
+}
+
+#Correo h2
+{
+    margin-left: 25px;
+    color: white;
+}
